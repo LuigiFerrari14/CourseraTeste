@@ -1,0 +1,3 @@
+#testchild.py
+
+print('hi')
