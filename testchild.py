@@ -1,3 +1,0 @@
-#testchild.py
-
-print('Hi')
